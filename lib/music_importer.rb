@@ -14,4 +14,3 @@ class MusicImporter
     end
 
 end
-© 2019 GitHub, Inc.
